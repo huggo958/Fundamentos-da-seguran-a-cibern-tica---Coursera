@@ -1,7 +1,7 @@
 # Fundamentos da segurança cibernética - Coursera
 **Write-up:** Resumos, explicações e anotações organizadas por módulo. inclui exerícios práticos,conceitos-chave (redes, criptografia, ameaças
 
-**módulo 1 - bem vindo ao Certificado de segurança cibernética do Google**
+**Módulo 1 - bem vindo ao Certificado de segurança cibernética do Google**
 
     - O principal objetivo em ciber segurança é proteger organizações e pessoas
 
@@ -17,5 +17,29 @@
     e as redes. E, se ocorer um incidente, eles investigam e relatam suas descobertas. Eles estão
     sempre fazendo perguntas e procurando soluções.
 
-# --------------------------------------------------------------------------------------------------
+# --------------------------------------------------------------------------------
 
+**Módulo 1 - introdução à ciber segurança**
+
+## Cybersecurity
+    - A pratica de garantir a confidencialidade, integridade e disponibilidade das informações,
+    protegendo redes, dispositivos, pessoas e dados de acesso não autorizado ou exploração 
+    criminosa.
+    
+## Treat actor 
+    - Qualquer pessoa ou grupo que represente um risco à segurança
+
+## Benefits of security
+    • Protege contra ameaças externas e internas
+    - Ameaça interna: alguem de fora da organização tentando obter acesso a inforrmações 
+    ou dispositivos privados. Uma ameaça interna vem de funcionáros atuais ou antigos 
+    fornecedores externos ou parceiros confiavéis. Muitas vezes, essas ameaças internas
+    são acidentais, como um funcionário clicando em um link comprometido em um e-mail.
+
+    • Atende às normas regulatórias.
+
+    • Mantém e melhora a produtividade dos negócios.
+
+    • Reduz despesas
+
+    
