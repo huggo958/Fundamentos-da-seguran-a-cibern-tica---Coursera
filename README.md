@@ -115,7 +115,7 @@ e dispomibilidade das informações, protegendo redes de computadores, dispositi
 pessoas e dados contra o acesso não autorizado ou a exploração criminosa.
 
 ## Principais termos e conceitos da segurança cibernética
-    - Um analista de segurança ou analista de seguranla cibernética concentra-se no
+    - Um analista de segurança ou analista de segurança cibernética concentra-se no
       monitoramento de redes de computadores em busca de violações. Ele também ajuda
       a desenvolver estratégias para proteger uma organização e pesquisa tendências
       de segurança da tecnologia da informação (TI) para permanecer alerta e
@@ -155,4 +155,19 @@ pessoas e dados contra o acesso não autorizado ou a exploração criminosa.
   É o processamento para garantir que os recursos armazenados na nuvem sejam
   configurados ou definifos corretamente, e que o acesso a esses recursos seja limitado
   a usuários autorizados. A Nuvem é uma rede composta por um conjinto de servidores ou
-  computadores que armazenam
+  computadores que armazenam recursos e dados em locais físicos remotos, conhecidos como
+  data centers, que podem ser acessados pela Internet. A Segurança na nuvem é um
+  subcampo crescente da segurança cibernética que se concentra especificamente na proteção
+  de dados, aplicativos e infraestrutura na nuvem.
+
+- Programação
+  É um processamento que pode ser usado para criar um conjunto específico de instruções para
+  um computador executar tarefas. Essas tarefas podem incluir
+
+      - Automação de tarefas repetitivas (ex: pesquisar uma lista de domínios maliciosos)
+      - Análise do Tráfego da Web
+      -  Alerta de atividades suspeitas
+
+  # --------------------------------------------------------------------------------
+
+**Módulo 1 - Teste seus conhecimentoa: Introdução à segurança cibernética**
