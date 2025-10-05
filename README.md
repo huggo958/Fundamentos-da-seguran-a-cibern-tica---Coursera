@@ -168,6 +168,35 @@ pessoas e dados contra o acesso não autorizado ou a exploração criminosa.
       - Análise do Tráfego da Web
       -  Alerta de atividades suspeitas
 
-  # --------------------------------------------------------------------------------
+# --------------------------------------------------------------------------------
 
 **Módulo 1 - Teste seus conhecimentoa: Introdução à segurança cibernética**
+
+Consegui meus primeiros 100% de acerto em uma tarefa do curso!
+<img width="1025" height="724" alt="Captura de tela de 2025-10-04 11-06-16" src="https://github.com/user-attachments/assets/e446151a-b2c9-449d-925e-771fbeb63968" />
+
+# --------------------------------------------------------------------------------
+
+**Módulo 1 - Habilidades essencias para profissionais de segurança cibernética**
+
+- As habilidades transferíveis são habilidades de outras áreas que podem ser aplicadas a 
+diferentes carreiras. 
+
+- As habilidades técnicas também podem ser aplicadas a várias profissões. 
+No entanto, às vezes, eles podem exigir conhecimento de ferramentas, procedimentos e políticas
+específicas. 
+
+- Outra habilidade transferível é a colaboração. Os analistas de segurança geralmente trabalham
+  em equipes com engenheiros , investigadores forenses digitais e gerentes de programas.
+
+- se você estiver trabalhando para implementar um novo recurso de segurança, provavelmente terá
+  um gerente de projeto , um engenheiro e um hacker ético em sua equipe.
+
+- um analista de segurança pode precisar fazer recomendações sobre como diferentes ferramentas
+  podem apoiar a eficiência e proteger a rede interna de uma organização.
+
+- O que é a resolução de problemas? Identificar um problema de segurança e, em seguida,
+  diagnosticá-lo e fornecer soluções é uma habilidade necessária para manter as operações
+  comerciais seguras.
+
+- Os profissionais de segurança usam ferramentas de SIEM para identificar e analisar ameaças, riscos e vulnerabilidades à segurança . Por exemplo, uma ferramenta SIEM pode alertá-lo de que um usuário desconhecido acessou o sistema. No caso de um usuário desconhecido acessar o sistema , você pode usar a perícia do computador para investigar o incidente. -
